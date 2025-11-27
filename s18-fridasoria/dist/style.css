@@ -1,0 +1,32 @@
+body{
+  background-color: #FEE7FC;
+}
+h1,p{
+  text-align: center;
+  color: black;
+}
+.container{
+  display: flex;
+  background-color: #EDD8ED;
+  width: 2000px;
+  margin: 20px auto;
+  content: center;
+}
+
+.container div{
+  background-color: white;
+  margin:10px;
+    padding:100px;
+  font-size: 20px;
+  
+}
+
+footer{
+  background-color: #EDD8ED;
+}
+
+.social a{
+  color: white;
+  margin: 0 1rem;
+  font-size: 1.2rem;
+}
